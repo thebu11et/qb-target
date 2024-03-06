@@ -154,3 +154,8 @@ document.addEventListener("DOMContentLoaded", function () {
         window.removeEventListener("mouseout", handleMouseOut);
     });
 });
+
+
+StandardEyeIcon: 'https://cdn.discordapp.com/attachments/906217014836731955/1210918920274452500/Frame_82_6.png?ex=65ec4f20&is=65d9da20&hm=987b54f7a23a7216996baa2ea32375fdbc1bb79b0fd1606331b0c79e7d55a1d6&', // Instead of icon it's using a image source found in HTML 
+CurrentIcon: 'https://cdn.discordapp.com/attachments/906217014836731955/1210918920274452500/Frame_82_6.png?ex=65ec4f20&is=65d9da20&hm=987b54f7a23a7216996baa2ea32375fdbc1bb79b0fd1606331b0c79e7d55a1d6&', // Instead of icon it's using a image source found in HTML
+SuccessIcon: 'https://cdn.discordapp.com/attachments/906217014836731955/1210918920807251968/Frame_83_1.png?ex=65ec4f20&is=65d9da20&hm=e80b985b70c317ed8b6a31b3c215218f86e3096d739fe4aee1bad40d2caade6c&', // Instead of icon it's using a image source found in HTML
